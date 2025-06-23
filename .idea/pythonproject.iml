@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/report/allureReport/data/attachments" />
+      <excludeFolder url="file://$MODULE_DIR$/report/allureReport/data/test-cases" />
+      <excludeFolder url="file://$MODULE_DIR$/report/allureReport/plugins/jira" />
+      <excludeFolder url="file://$MODULE_DIR$/report/allureReport/plugins/junit" />
+      <excludeFolder url="file://$MODULE_DIR$/report/allureReport/plugins/trx" />
+      <excludeFolder url="file://$MODULE_DIR$/report/allureReport/plugins/xctest" />
+      <excludeFolder url="file://$MODULE_DIR$/report/allureReport/plugins/xray" />
+      <excludeFolder url="file://$MODULE_DIR$/report/allureReport/plugins/xunit-xml" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.8 (pythonproject)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

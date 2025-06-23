@@ -1,0 +1,1 @@
+ERROR - 2025-06-18 14:48:47,002 - readyaml.py:28 -[readyaml:get_testcase_yaml] - [F:\Pytestc\pythonproject\pythonproject/LoginAPI/login.yaml]文件未找到，请检查路径是否正确
