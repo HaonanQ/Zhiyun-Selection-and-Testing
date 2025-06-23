@@ -22,6 +22,7 @@
 
 **1、用例模板(baseInfo、testcase的关键字不能缺少）**
 ------------------------------------------------------------------------------------------------
+```
 - baseInfo:
     api_name: 轨迹查询
     url: /monitor/vehicle/getMileageFrom
@@ -59,7 +60,8 @@
         data: '"data":(\d*)'        #提取数字  
       extract_list:  #提取多个参数，以列表形式返回，支持json提取和正则表达式提取
         id: $.result.id
-          
+```       
+
 **关于参数提取，json提取器表达式***
 -----------------
 可以使用这个在线jsonpath解析器：http://www.atoolbox.net/Tool.php?Id=792
